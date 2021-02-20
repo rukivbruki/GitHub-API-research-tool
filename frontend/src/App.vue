@@ -8,13 +8,13 @@
 <script>
 import Progress from "./components/Progress";
 import Menu from "./components/Menu";
-
+console.log("123");
 export default {
   name: "App",
   components: {
     Progress,
-    Menu
-  }
+    Menu,
+  },
 };
 </script>
 
